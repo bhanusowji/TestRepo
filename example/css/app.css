@@ -1,0 +1,39 @@
+
+
+
+.breadcrumb1{
+	width: 30%;
+    background: white;
+}
+
+p.date .text{
+	width:60%;
+}
+
+
+img.card-size{
+
+	height: 360px;
+}
+
+
+div.text-overlay{
+
+	background: red;
+    height: 65%;
+    margin-top: 126px;
+}
+
+
+   img.image{
+height: 100px;
+    background: gray;
+
+   	} 
+
+   	div.card-body{
+   		padding-left: 10px;
+   		padding-right: 0px;
+   		padding-top: 0px;
+   		padding-bottom: 0px;
+   	}
